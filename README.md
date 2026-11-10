@@ -1,29 +1,51 @@
 Gmorkz
 
-Making things, questioning decisions, and occasionally wondering how it got to 3 a.m.
+Independent creator · Game development · Interactive experiments
 
-I'm interested in building things that feel a little different — games with atmosphere, unusual mechanics, meaningful choices, and systems that have something to say.
+“It's usually a good idea. Right up until you have to live with the consequences.”
 
-Currently working on
+---
 
-Modern Arcana
+CURRENTLY BUILDING
 
-An experimental interactive game built around institutional absurdity, tactical decisions, strange encounters, and consequences that don't necessarily disappear when you leave a room.
+🃏 Modern Arcana
 
-The aim is to build something with its own identity: a world that remembers, systems that interact, and choices that matter beyond the immediate encounter.
+An experimental interactive game.
 
-Current direction:
+A strange institution. Unusual rules. Tactical decisions. And a building that might remember more than it lets on.
 
-- Improving the game's stability and underlying architecture.
-- Developing persistent consequences between floors.
-- Exploring deeper strategic card mechanics.
-- Introducing characters and systems that make the building feel more alive.
+Modern Arcana explores the space between strategy, atmosphere and consequence. The goal is to create a world with its own identity, where the systems, characters and environment feel connected.
 
-How I like to build
+The current development priorities:
 
-- Keep the original identity; don't turn unusual ideas into generic ones.
-- Test before changing things.
-- Preserve what already works.
-- Make decisions deliberately. Fix the consequences afterwards.
+- Stability — making the existing experience reliable.
+- Architecture — separating game systems and content for easier development.
+- Persistence — allowing choices and discoveries to carry between floors.
+- Strategy — developing a deeper card-based gameplay layer.
+- World-building — making the institution and its inhabitants feel more alive.
 
-Somewhere between a good idea and a questionable decision, there's usually a project worth making.
+"→ Explore Modern Arcana" (https://github.com/Gmorkz/modern-arcana)
+
+---
+
+DESIGN PHILOSOPHY
+
+- Preserve what makes an idea interesting.
+- Test before changing what already works.
+- Let decisions have consequences.
+- Prefer atmosphere and originality over convention.
+- Build deliberately. There's no point creating a problem just to enjoy solving it.
+
+---
+
+A NOTE FROM THE DEVELOPER
+
+I make things, occasionally overthink them, and then make them anyway.
+
+Some projects are experiments. Some become considerably more complicated than expected.
+
+Modern Arcana is currently somewhere in between.
+
+---
+
+End of shift. Probably not the end of the story.
