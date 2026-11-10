@@ -1,4 +1,4 @@
- 
+ ![Modern Arcana](modern-arcana-github-banner.jpg)
 Gmorkz
 
 Independent creator · Game development · Interactive experiments
