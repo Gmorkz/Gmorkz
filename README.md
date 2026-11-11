@@ -1,35 +1,59 @@
  ![Modern Arcana](modern-arcana-github-banner.jpg)
 Gmorkz
 
-Independent creator · Game development · Interactive experiments
-
-“It's usually a good idea. Right up until you have to live with the consequences.”
+Independent developer · Experimental game design · Systems and storytelling
 
 ---
 
-CURRENTLY BUILDING
+◇ CURRENTLY BUILDING
 
-🃏 Modern Arcana
+MODERN ARCANA
 
-An experimental interactive game.
+An experimental interactive game exploring institutional absurdity, tactical decisions and consequences.
 
-A strange institution. Unusual rules. Tactical decisions. And a building that might remember more than it lets on.
+A world where bureaucracy becomes architecture, rules become mechanics, and every decision has the potential to matter.
 
-Modern Arcana explores the space between strategy, atmosphere and consequence. The goal is to create a world with its own identity, where the systems, characters and environment feel connected.
+Current priorities
 
-The current development priorities:
-
-- Stability — making the existing experience reliable.
-- Architecture — separating game systems and content for easier development.
-- Persistence — allowing choices and discoveries to carry between floors.
-- Strategy — developing a deeper card-based gameplay layer.
-- World-building — making the institution and its inhabitants feel more alive.
-
-"→ Explore Modern Arcana" (https://github.com/Gmorkz/modern-arcana)
+- Stability and reliability
+- Cleaner underlying architecture
+- Persistence between floors
+- Strategic card gameplay
+- World-building and atmosphere
 
 ---
 
-DESIGN PHILOSOPHY
+◇ DESIGN PHILOSOPHY
+
+- Preserve unusual ideas rather than sanding them down.
+- Test before making changes.
+- Make decisions carry consequences.
+- Prioritise atmosphere, originality and meaningful mechanics.
+- Build deliberately. Improve incrementally.
+
+---
+
+◇ APPROACH
+
+I prefer projects with a distinct identity over projects that simply follow a familiar formula.
+
+Experimentation is encouraged. Unnecessary complexity is not.
+
+The aim is to make something memorable, coherent and worth exploring.
+
+---
+
+◇ A NOTE FROM THE DEVELOPER
+
+Usually overthinking something.
+
+Occasionally making progress.
+
+Generally suspicious of anything described as a simple solution.
+
+---
+
+End of shift. Probably not the end of the story.
 
 - Preserve what makes an idea interesting.
 - Test before changing what already works.
